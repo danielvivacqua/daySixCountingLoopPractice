@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySixCountingLoopPractice\daySixCountingLoopPractice\bin\Debug\daySixCountingLoopPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySixCountingLoopPractice\daySixCountingLoopPractice\bin\Debug\daySixCountingLoopPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySixCountingLoopPractice\daySixCountingLoopPractice\bin\Debug\daySixCountingLoopPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySixCountingLoopPractice\daySixCountingLoopPractice\obj\Debug\daySixCountingLoopPractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySixCountingLoopPractice\daySixCountingLoopPractice\obj\Debug\daySixCountingLoopPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySixCountingLoopPractice\daySixCountingLoopPractice\obj\Debug\daySixCountingLoopPractice.pdb
